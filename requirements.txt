@@ -1,0 +1,10 @@
+openai==0.15.0
+python-dotenv==0.19.2
+fastapi
+uvicorn[standard]
+torch
+sentence-transformers
+sentencepiece
+transformers
+whatthepatch
+easydict
